@@ -26,5 +26,7 @@ CribDragger(ciphertext, on_change).run()
 
 ```
 
-
 There are still many unresolved issues at this stage but the program _should_ be fairly usable.
+
+
+This project initial was thought as a fork of [this repo](https://github.com/CameronLonsdale/MTP) but eventually I figured building it from scratch would've just been easier. Still, shoutout to the original program.
